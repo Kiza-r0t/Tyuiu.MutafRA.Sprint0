@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E7AA6DC6-90A5-D26B-7C84-F17B35778DBE}</ProjectGuid>
+    <ProjectGuid>{45AF5F22-E3B6-4293-A6F2-AA6E5AE853F5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.MutafRA.Sprint0.Task0.V0</RootNamespace>
-    <AssemblyName>Tyuiu.MutafRA.Sprint0.Task0.V0</AssemblyName>
+    <RootNamespace>Tyuiu.MutafRA.Sprin0.Task1.V0</RootNamespace>
+    <AssemblyName>Tyuiu.MutafRA.Sprin0.Task1.V0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

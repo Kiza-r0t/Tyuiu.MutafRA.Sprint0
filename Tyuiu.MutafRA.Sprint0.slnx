@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.MutafRA.Sprint0.Task0.V0/Tyuiu.MutafRA.Sprint0.Task0.V0.csproj" />
+    <Project Path="../../../../../source/repos/Tyuiu.MutafRA.Sprint0/Tyuiu.MutafRA.Sprint0.Task0.V0/Tyuiu.MutafRA.Sprint0.Task0.V0.csproj" Id="99844743-1af1-4c32-a2e4-4a6c2cdd9b36" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task1.V0/Tyuiu.MutafRA.Sprint0.Task1.V0.csproj" Id="ac472ac8-c35d-423f-a550-24c820b54366" />
   </Folder>
 </Solution>

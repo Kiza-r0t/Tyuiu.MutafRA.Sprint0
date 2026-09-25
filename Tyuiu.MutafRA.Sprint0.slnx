@@ -1,8 +1,18 @@
 <Solution>
+  <Folder Name="/Task 2/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task2.V0.Lib/Tyuiu.MutafRA.Sprint0.Task2.V0.Lib.csproj" Id="5e5bbbf2-8c8c-498c-8a96-ab4107f3336c" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task2.V0.Test/Tyuiu.MutafRA.Sprint0.Task2.V0.Test/Tyuiu.MutafRA.Sprint0.Task2.V0.Test.csproj" Id="940cc01f-8e7a-4e83-be9a-96dab5ef5700" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task2.V0/Tyuiu.MutafRA.Sprint0.Task2.V0.csproj" Id="110d2fc0-2720-4e9d-9549-01235721b2bf" />
+  </Folder>
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.MutafRA.Sprint0.Task0.V0/Tyuiu.MutafRA.Sprint0.Task0.V0.csproj" />
   </Folder>
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.MutafRA.Sprin0.Task1.V0/Tyuiu.MutafRA.Sprin0.Task1.V0.csproj" Id="45af5f22-e3b6-4293-a6f2-aa6e5ae853f5" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.MuafRA.Sprint0.Task3.V0.Lib/Tyuiu.MuafRA.Sprint0.Task3.V0.Lib.csproj" Id="700e1ccc-90b0-4457-b6e3-6a6c2d96facb" />
+    <Project Path="Tyuiu.MuafRA.Sprint0.Task3.V0.Test/Tyuiu.MuafRA.Sprint0.Task3.V0.Test/Tyuiu.MuafRA.Sprint0.Task3.V0.Test.csproj" Id="ce341f2c-7d95-488d-997c-a9ccf3f953ec" />
+    <Project Path="Tyuiu.MuafRA.Sprint0.Task3.V0/Tyuiu.MuafRA.Sprint0.Task3.V0.csproj" Id="373515c7-cf46-4b67-9777-51d1183fa9ae" />
   </Folder>
 </Solution>

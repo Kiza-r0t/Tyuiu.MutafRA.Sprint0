@@ -1,0 +1,38 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task0.V0/Tyuiu.MutafRA.Sprint0.Task0.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task1.V0/Tyuiu.MutafRA.Sprint0.Task1.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task2.V0.Lib/Tyuiu.MutafRA.Sprint0.Task2.V0.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task2.V0.Test/Tyuiu.MutafRA.Sprint0.Task2.V0.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task2.V0/Tyuiu.MutafRA.Sprint0.Task2.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task3.V0.Lib/Tyuiu.MutafRA.Sprint0.Task3.V0.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task3.V0.Test/Tyuiu.MutafRA.Sprint0.Task3.V0.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task3.V0/Tyuiu.MutafRA.Sprint0.Task3.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task4.V0.Lib/Tyuiu.MutafRA.Sprint0.Task4.V0.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task4.V0.Test/Tyuiu.MutafRA.Sprint0.Task4.V0.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task4.V0/Tyuiu.MutafRA.Sprint0.Task4.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task5.V0.Lib/Tyuiu.MutafRA.Sprint0.Task5.V0.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task5.V0.Test/Tyuiu.MutafRA.Sprint0.Task5.V0.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task5.V0/Tyuiu.MutafRA.Sprint0.Task5.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task6.V0.Lib/Tyuiu.MutafRA.Sprint0.Task6.V0.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task6.V0.Test/Tyuiu.MutafRA.Sprint0.Task6.V0.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task6.V0/Tyuiu.MutafRA.Sprint0.Task6.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task7.V0.Lib/Tyuiu.MutafRA.Sprint0.Task7.V0.Lib/Tyuiu.MutafRA.Sprint0.Task7.V0.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task7.V0.Test/Tyuiu.MutafRA.Sprint0.Task7.V0.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint0.Task7.V0/Tyuiu.MutafRA.Sprint0.Task7.V0.csproj" />
+  </Folder>
+</Solution>
